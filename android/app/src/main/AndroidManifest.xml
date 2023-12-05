@@ -41,5 +41,7 @@
         <uses-permission android:name="android.permission.LOCATION" />
                 <uses-permission android:name="android.permission.WIFI" />
 
+                <uses-permission android:name="android.permission.BLUETOOTH" />
+
 
 </manifest>
